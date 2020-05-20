@@ -1,3 +1,32 @@
+.nav{
+    
+    height: 96px;
+    font-size: 25px;
+    background: #546e7a;
+}
+
+.navBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    margin-left: 500px;
+    
+}
+
 .activeLink{
-    color: red;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.navlink{
+    padding: 0 20px 0 20px;
+    color: #f5f5f5;
+    font-weight: 400;
+}
+
+.navlink:hover{
+    color: #ffffff;
+    font-weight: 600;
 }

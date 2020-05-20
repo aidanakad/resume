@@ -1,10 +1,10 @@
 import React from 'react';
-import Nav from '../Nav'
+import Navigation from '../NavBar'
 
 export default function Portfolio() {
   return (
     <div>
-        <Nav/>
+        <Navigation/>
       Portfolio
     </div>
   );

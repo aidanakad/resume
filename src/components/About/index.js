@@ -1,11 +1,11 @@
 import React from 'react';
-import Nav from '../Nav'
+import Navigation from '../NavBar';
 
 export default function About() {
   return (
     <div>
-        <Nav/>
-      About
+        <Navigation/>
+         About
     </div>
   );
 }
