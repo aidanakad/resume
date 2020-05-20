@@ -5,12 +5,10 @@ import style from './nav.module.css'
 
 export default function Navigation() {
   return ( 
-    <div>
       <Navbar fixed="top" collapseOnSelect expand="md" variante="dark" className={style.nav}>
         <Container>
           <Navbar.Brand href="/">
             some logo
-
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
           <Navbar.Collapse id="responsive-navbar-nav">
@@ -23,7 +21,7 @@ export default function Navigation() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-    </div>
+
   );
 }
 
