@@ -1,12 +1,12 @@
 import React from 'react';
-import Nav from '../Nav'
+import PageWrapper from '../PageWrapper'
+import Development from '../Development';
 
 export default function Portfolio() {
   return (
-    <div>
-        <Nav/>
-      Portfolio
-    </div>
+    <PageWrapper>
+      <Development/>
+    </PageWrapper>
   );
 }
 

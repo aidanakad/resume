@@ -1,6 +1,6 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
-import './App.css';
 import About from'./components/About'
 import Resume from'./components/Resume'
 import Portfolio from'./components/Portfolio'
