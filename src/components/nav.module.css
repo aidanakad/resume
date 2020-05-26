@@ -1,7 +1,7 @@
 @import '../vars.css';
 
 .nav{
-    height: 96px;
+    min-height: 96px;
     font-size: 19px;
     background: rgb(2,0,36);
     background: linear-gradient(351deg, rgba(2,0,36,1) 0%, rgba(134,113,148,1) 100%, rgba(0,212,255,1) 100%);
@@ -26,5 +26,5 @@
 
 .navlink:hover{
     color: var(--link-color);
-    transform: scale(1.2);
+    transform: scale(1.1);
 }   
