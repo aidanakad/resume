@@ -1,5 +1,6 @@
 import React from 'react';
 import Navigation from '../NavBar'
+import PropTypes from 'prop-types'
 import style from './page.module.css'
 
 export default function PageWrapper({children}) {
@@ -11,3 +12,6 @@ export default function PageWrapper({children}) {
   );
 }
 
+PageWrapper.propTypes={
+  children: PropTypes.node.isRequired 
+}
