@@ -5,7 +5,7 @@ import style from './nav.module.css'
 
 export default function Navigation() {
   return ( 
-      <Navbar fixed="top" collapseOnSelect expand= 'lg' variante="dark" className={style.nav} mr='auto'>
+      <Navbar collapseOnSelect expand= 'lg' variante="dark" className={style.nav} mr='auto'>
         <Container fluid="md">
               <Navbar.Brand href="/">
             some logo

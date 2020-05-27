@@ -19,7 +19,7 @@
 
 .navlink{
     padding: 0 25px 0 25px;
-    color: var(--text-color);
+    color: var(--nav-text-color);
     text-transform: uppercase;
     transition: 0.5s;
 }

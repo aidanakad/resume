@@ -1,10 +1,31 @@
-
+@import '../../vars.css';
 
 .bg{
-    background: rgb(238,174,202);
-    background: linear-gradient(10deg, rgba(238,174,202,1) 0%, rgba(255,255,255,1) 100%);
+    background: rgb(255,225,238);
+    background: radial-gradient(circle, rgba(255,225,238,1) 0%, rgba(255,255,255,1) 95%);
+    color: var(--txt-color) ;
 }
 
-.col{
-    color: black;
+.block{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 35px;
+    line-height: 42px;
+    font-weight: 500;
+}
+
+.h3{
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.txt{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
 }
