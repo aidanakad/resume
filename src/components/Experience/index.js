@@ -5,7 +5,7 @@ import Development from '../Development';
 export default function Resume() {
   return (
     <PageWrapper>
-      <Development/>
+      <div>Lorem ipsum dolor sit amet.</div>
     </PageWrapper>
   );
 }

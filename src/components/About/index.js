@@ -4,7 +4,9 @@ import {Container, Row, Col, Button} from 'react-bootstrap'
 import style from './about.module.css'
 
 export default function About() {
-  
+  const handleClick =()=>{
+    window.location.assign('../experience')
+  }
   return (
     <PageWrapper>
       <div className={style.bg}>
