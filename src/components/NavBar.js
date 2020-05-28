@@ -3,6 +3,13 @@ import {NavLink} from 'react-router-dom'
 import {Navbar, Nav, Container} from 'react-bootstrap'
 import style from './nav.module.css'
 
+const navItems = [
+  { id: 1, link: '/', text: 'About' },
+  { id: 2, link: '/experience', text: 'Experience' },
+  { id: 3, link: '/portfolio', text: 'Portfolio' },
+  { id: 4, link: '/contacts', text: 'Contacts' },
+]
+
 export default function Navigation() {
   return ( 
       <Navbar collapseOnSelect expand= 'lg' variante="dark" className={style.nav} mr='auto'>
@@ -13,10 +20,22 @@ export default function Navigation() {
               <Navbar.Toggle aria-controls="responsive-navbar-nav" />
               <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className={style.navBar}> 
-                  <NavLink className={style.navlink} activeClassName={style.activeLink} exact to="/">About</NavLink>
-                  <NavLink className={style.navlink} activeClassName={style.activeLink} to="/experience">Experience</NavLink>
-                  <NavLink className={style.navlink} activeClassName={style.activeLink} to="/portfolio">Portfolio</NavLink>
-                  <NavLink className={style.navlink} activeClassName={style.activeLink} to="/contact">Contact</NavLink>
+                <div>
+                  {
+                    navItems.map((item) => (
+                      <NavLink
+                        key={item.id}
+                        exact
+                        to={item.link}
+                        className={style.navlink}
+                        activeClassName={style.activeLink}
+                      >
+                        {item.text}
+                      </NavLink>
+                    ))
+                  }
+                </div>
+                  
                 </Nav>
               </Navbar.Collapse>
         </Container>
@@ -24,4 +43,5 @@ export default function Navigation() {
 
   );
 }
+
 
