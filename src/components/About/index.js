@@ -1,12 +1,10 @@
 import React from 'react';
 import PageWrapper from '../PageWrapper';
 import {Container, Row, Col, Button} from 'react-bootstrap'
+import {NavLink} from 'react-router-dom' 
 import style from './about.module.css'
 
 export default function About() {
-  const handleClick =()=>{
-    window.location.assign('../experience')
-  }
   return (
     <PageWrapper>
       <div className={style.bg}>
@@ -20,7 +18,9 @@ export default function About() {
                   <p>My name is Aidana. I am a junior front-end developer, based in Bishkek, Kyrgyzstan. If I describe myself in one sentence, this will be that I have the optimism of will and pessimism of intelligence.</p>
                 </div>
               </div>
-              <Button variant="outline-secondary" onClick={handleClick}>Learn more</Button>
+              <NavLink to="/experience">
+                <Button variant="outline-secondary">Learn more</Button>
+              </NavLink>
             </Col>
           </Row>
           
