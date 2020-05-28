@@ -17,7 +17,7 @@ export default function About() {
                 <h3 className={style.h3}>HELLO THERE!</h3>
                 <h1 className={style.title}>I AM FRONT-END DEVELOPER</h1>
                 <div className={style.txt}>
-                  <p>I am a junior front-end developer, based in Bishkek, Kyrgyzstan. If I describe myself in one sentence, this will be that I have the optimism of will and pessimism of intelligence.</p>
+                  <p>My name is Aidana. I am a junior front-end developer, based in Bishkek, Kyrgyzstan. If I describe myself in one sentence, this will be that I have the optimism of will and pessimism of intelligence.</p>
                 </div>
               </div>
               <Button variant="outline-secondary" onClick={handleClick}>Learn more</Button>
