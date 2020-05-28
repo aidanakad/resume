@@ -7,7 +7,7 @@ const navItems = [
   { id: 1, link: '/', text: 'About' },
   { id: 2, link: '/experience', text: 'Experience' },
   { id: 3, link: '/portfolio', text: 'Portfolio' },
-  { id: 4, link: '/contacts', text: 'Contacts' },
+  { id: 4, link: '/contact', text: 'Contact' },
 ]
 
 export default function Navigation() {

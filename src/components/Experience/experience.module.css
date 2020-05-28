@@ -1,0 +1,45 @@
+@import '../../vars.css';
+
+.box{
+    display: flex;
+    justify-content: center;
+    color: var(--txt-color) ;
+}
+
+.img{
+    border-radius: 8px;
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+    margin-right: 50px;
+}
+
+li{
+    list-style-type: none;
+    margin-bottom: 19px;
+}
+
+ul{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+span{
+    font-weight: 600;
+    color: #212529;
+    min-width: 114px;
+    display: inline-block;
+    background: #fafafa;
+    padding: 2px 8px;
+    font-size: 19px;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+h6{
+    font-size: 19px;
+}
+
+.info{
+    margin-top: 42px;
+}
