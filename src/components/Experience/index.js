@@ -13,8 +13,8 @@ export default function Resume() {
           <Col>
             <h2 style={{ padding: "10px 20px", textAlign: "center", margin:"24px 0 24px 0"}}>ABOUT ME</h2>
             <div className={style.box}>
-              <img src = {mypic} alt="avatar" className={style.img} />
-              <Information/>
+              <Col sm={12} md={6}><img src = {mypic} alt="avatar" className={style.img} /></Col>
+              <Col sm={12} md={6}><Information/></Col>
             </div>
           </Col>
         </Row>
