@@ -20,7 +20,7 @@ export default function Navigation() {
               <Navbar.Toggle aria-controls="responsive-navbar-nav" />
               <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className={style.navBar}> 
-                <div>
+                
                   {
                     navItems.map((item) => (
                       <NavLink
@@ -34,7 +34,7 @@ export default function Navigation() {
                       </NavLink>
                     ))
                   }
-                </div>
+                
                   
                 </Nav>
               </Navbar.Collapse>
