@@ -1,0 +1,6 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    background: rgb(255,225,238);
+    background: radial-gradient(circle, rgba(255,225,238,1) 0%, rgba(255,255,255,1) 95%);
+}
