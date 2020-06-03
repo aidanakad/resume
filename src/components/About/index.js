@@ -19,7 +19,7 @@ export default function About() {
                 </div>
               </div>
               <NavLink to="/experience">
-                <Button variant="outline-secondary">Learn more</Button>
+                <Button variant="outline-secondary">More about me</Button>
               </NavLink>
             </Col>
           </Row>
