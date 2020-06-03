@@ -2,13 +2,14 @@
 
 .box{
     display: flex;
+    flex-direction: row;
     justify-content: center;
     color: var(--txt-color) ;
 }
 
 .img{
     border-radius: 8px;
-    width: 300px;
+    width: 240px;
     height: 300px;
     object-fit: contain;
     /* margin-right: 50px; */
@@ -31,7 +32,7 @@ span{
     display: inline-block;
     background: #fafafa;
     padding: 2px 8px;
-    font-size: 19px;
+    font-size: 18px;
     border-radius: 4px;
     margin-right: 10px;
 }
@@ -40,6 +41,3 @@ h6{
     font-size: 19px;
 }
 
-.info{
-    margin-top: 42px;
-}
