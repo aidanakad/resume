@@ -1,6 +1,8 @@
 @import '../../vars.css';
 
 .bg{
+    background: rgb(255,225,238, .6) url(../../img/bg.png) 800px center / 600px no-repeat  !important;
+    background: radial-gradient(circle, rgba(255,225,238,1) 0%, rgba(255,255,255,1) 95%);
     color: var(--txt-color) ;
     height: 100vh;
     display: flex;
