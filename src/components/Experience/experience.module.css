@@ -2,7 +2,6 @@
 
 .box{
     display: flex;
-    flex-direction: row;
     justify-content: center;
     color: var(--txt-color) ;
 }
@@ -41,3 +40,22 @@ h6{
     font-size: 19px;
 }
 
+.socials{
+    text-align: center;
+    margin-top: 18px;
+}
+
+.icon{
+    margin-right: 10px;
+}
+
+.icon:hover{
+    cursor: pointer;
+    color: grey;
+}
+
+a{
+    text-decoration: none !important;
+    outline: none !important;
+    color: inherit;
+}

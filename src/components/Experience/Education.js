@@ -3,6 +3,8 @@ import style from './experience.module.css'
 
 export default function Education() {
     return (
-      <div></div>
+      <div>
+        
+      </div>
     );
   }
