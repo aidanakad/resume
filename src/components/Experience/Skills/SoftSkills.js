@@ -4,7 +4,7 @@ import style from '../experience.module.css'
 export default function SoftSkils() {
     return (
       <div >
-        <h4 className={style.title} style={{width: '117px'}}>Soft Skills</h4>
+        <h4 className={style.title} style={{width: '107px'}}>Soft Skills</h4>
 
           <div className={style.skill}>
               <div className={style.top}>
@@ -58,7 +58,7 @@ export default function SoftSkils() {
 
           <div className={style.skill}>
               <div className={style.top}>
-                  <div className={style.skillName}>Russian Language</div>
+                  <div className={style.skillName}>Russian language</div>
                   <div className={style.percent}>100%</div>
               </div>
               <div className={style.wrapper}>
@@ -68,7 +68,7 @@ export default function SoftSkils() {
 
           <div className={style.skill}>
               <div className={style.top}>
-                  <div className={style.skillName}>Kyrgyz Language</div>
+                  <div className={style.skillName}>Kyrgyz language</div>
                   <div className={style.percent}>95%</div>
               </div>
               <div className={style.wrapper}>
@@ -78,7 +78,7 @@ export default function SoftSkils() {
 
           <div className={style.skill}>
               <div className={style.top}>
-                  <div className={style.skillName}>English Language</div>
+                  <div className={style.skillName}>English language</div>
                   <div className={style.percent}>90%</div>
               </div>
               <div className={style.wrapper}>

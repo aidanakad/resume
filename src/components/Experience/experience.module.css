@@ -1,11 +1,10 @@
 @import '../../vars.css';
 
-
-
 .box{
     display: flex;
     justify-content: center;
     color: var(--txt-color) ;
+    margin-bottom: 47px;
 }
 
 .img{
@@ -94,7 +93,7 @@ a{
 
 .duties{
     margin-left: 20px;
-    width: 350px;
+    width: 320px;
 }
 
 .skill{
@@ -117,8 +116,12 @@ a{
 .percentage{
     background: var(--basic-color);
 }
-/* @media screen and (max-width: 760px) {
-    body {
-      
+
+@media screen and (max-width: 500px) {
+    .duties {
+      width: auto;
     }
-  } */
+    .img{
+        text-align: center;
+    }
+  }
