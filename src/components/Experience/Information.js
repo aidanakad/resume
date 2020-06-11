@@ -37,7 +37,7 @@ export default function Information() {
               </li>
               <li>
                   <h6>
-                      <span>Languages:</span> English, Russian, Kyrgyz, Turkish 
+                      <span>Languages:</span> English, Russian, Kyrgyz
                   </h6>
               </li>
           </ul>
