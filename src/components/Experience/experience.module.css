@@ -14,7 +14,7 @@
     /* margin-right: 50px; */
 }
 
-li{
+.info li{
     list-style-type: none;
     margin-bottom: 19px;
 }
@@ -27,7 +27,7 @@ ul{
 span{
     font-weight: 600;
     color: #212529;
-    min-width: 114px;
+    width: 114px;
     display: inline-block;
     background: #fafafa;
     padding: 2px 8px;
@@ -59,3 +59,64 @@ a{
     outline: none !important;
     color: inherit;
 }
+
+.resume{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+ .resume p{
+     font-weight: 500;
+ }
+
+.title{
+    border-bottom: 2px solid var(--txt-color);
+    width: 108px;
+    margin-bottom: 30px;
+}
+
+.rightBox{
+    width: 137px;
+}
+
+.divider{
+    background: black;
+    width: 2px;
+    padding: 0;
+    margin-left: 11px;
+}
+
+.calendar{
+    margin-left: 12px;
+}
+
+.duties{
+    margin-left: 20px;
+    width: 350px;
+}
+
+.skill{
+    display: flex;
+    flex-direction: column;
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+
+.wrapper{
+    background: white;
+    border: 1px solid var(--basic-color);
+    border-radius: 6px;
+    height: 20px;
+}
+
+.percentage{
+    background: var(--basic-color);
+}
+/* @media screen and (max-width: 760px) {
+    body {
+      
+    }
+  } */

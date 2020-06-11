@@ -2,7 +2,9 @@ import React from 'react';
 import PageWrapper from '../PageWrapper'
 import Information from './Information'
 import SocialIcons from './SocialIcons'
-// import Education from './Education'
+import Education from './Education'
+import Experience from './Experience'
+import HardSkills from './HardSkills'
 import {Container, Row, Col} from 'react-bootstrap'
 import mypic from '../../img/personal-img-min.JPG'
 import style from './experience.module.css'
@@ -18,8 +20,14 @@ export default function Resume() {
             <Information/> 
             <SocialIcons />
           </Col>
-          {/* <Education/> */}
+          
         </Row>
+        <Row> 
+          <Col xs={12} md={12}><Education/></Col>
+          <Col><Experience/></Col>
+          <Col><HardSkills/></Col>
+        </Row>
+        
       </Container>
       
     </PageWrapper>
