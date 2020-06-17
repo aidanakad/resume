@@ -13,7 +13,7 @@ export default function Contact() {
           <h2 className={style.h2}>GET IN TOUCH</h2>
           <h6 className={style.h6}>If you would like to discuss projects, work, partnership or just want to say Hello, I am always open for conversation. You can contact me right from here.</h6>
         </div>
-         <Row className={style.contactBox}>
+         <Row>
            <Col xs={12} md={6}><Form/></Col>
            <Col xs={12} md={6}><Messanger/></Col>
          </Row>
