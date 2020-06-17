@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Location (props) {
   return (
-	<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" x="0px" y="0px"
+	<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" x="0px" y="0px"
 	viewBox="0 0 300 300"  xmlSpace="preserve">
 <g id="XMLID_496_">
    <path id="XMLID_497_" d="M5.299,144.645l69.126,25.8l26.756,86.047c1.712,5.511,8.451,7.548,12.924,3.891l38.532-31.412
