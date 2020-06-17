@@ -3,7 +3,7 @@ import style from '../experience.module.css'
 
 export default function HardSkils() {
     return (
-      <div >
+      <div style={{marginBottom:'20px'}}>
         <h4 className={style.title} style={{width: '117px'}}>Hard Skills</h4>
 
           <div className={style.skill}>

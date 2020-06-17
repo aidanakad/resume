@@ -24,7 +24,7 @@ export default function Resume() {
           </Col>
         </Row>
 
-        <Row> 
+        <Row style={{marginBottom:'20px'}}> 
           <Col xs={12} md={8} lg={8}><Experience/></Col>
           <Col xs={12} md={4} lg={4}><Education/></Col>
           <Col xs={12} md={6}><HardSkills/></Col>
