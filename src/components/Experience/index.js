@@ -32,7 +32,6 @@ export default function Resume() {
         </Row>
         
       </Container>
-      
     </PageWrapper>
   );
 }
