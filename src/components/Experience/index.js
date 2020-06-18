@@ -14,7 +14,7 @@ export default function Resume() {
   return (
     <PageWrapper>
       <Container className={style.container}>
-        <h2 style={{ padding: "10px 20px", textAlign: "center", margin:"24px 0 24px 0"}}>ABOUT ME</h2> 
+        <h2 className={style.h2} style={{textAlign:'center'}}>ABOUT ME</h2> 
 
         <Row className={style.box}>
           <Col xs={12} md={6} lg={4}><img src = {mypic} alt="avatar" className={style.img} style={{ marginBottom:'15px'}}/></Col>
