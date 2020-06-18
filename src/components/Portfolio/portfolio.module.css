@@ -40,4 +40,11 @@
     margin-top: 40px !important;
     text-decoration: none !important;
     outline: none !important;
+    transition: 0.5s;
+  }
+
+  .repo:hover{
+    cursor: pointer;
+    color: grey;
+    transform: scale(1.1);
   }

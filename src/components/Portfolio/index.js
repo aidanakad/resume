@@ -22,7 +22,7 @@ export default function Portfolio() {
                 desc= "In this project I realized simple logic of contact list, by using react's useState."
                 image = {contact}
               />
-              <a style={{marginBottom:'40px'}} className={style.repo} href="https://github.com/aidanakad/contact-list" target="_blank" rel="noopener noreferrer"><GitHub/>  Check out a full code from repository</a>
+              <a className={style.repo} href="https://github.com/aidanakad/contact-list" target="_blank" rel="noopener noreferrer"><GitHub/>  Check out a full code from repository</a>
           </Col>
             <Col xs={12} md={6}>
               <Card 
