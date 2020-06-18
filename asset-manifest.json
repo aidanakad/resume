@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/http//aidanakad.github.io/resume/static/css/main.868cc0d8.chunk.css",
-    "main.js": "/http//aidanakad.github.io/resume/static/js/main.00d6b77f.chunk.js",
-    "main.js.map": "/http//aidanakad.github.io/resume/static/js/main.00d6b77f.chunk.js.map",
-    "runtime-main.js": "/http//aidanakad.github.io/resume/static/js/runtime-main.db920b07.js",
-    "runtime-main.js.map": "/http//aidanakad.github.io/resume/static/js/runtime-main.db920b07.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/http//aidanakad.github.io/resume/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.391de5e5.chunk.js": "/http//aidanakad.github.io/resume/static/js/2.391de5e5.chunk.js",
-    "static/js/2.391de5e5.chunk.js.map": "/http//aidanakad.github.io/resume/static/js/2.391de5e5.chunk.js.map",
-    "index.html": "/http//aidanakad.github.io/resume/index.html",
-    "precache-manifest.4f9858bbcc84c1d67dbde795a53983c7.js": "/http//aidanakad.github.io/resume/precache-manifest.4f9858bbcc84c1d67dbde795a53983c7.js",
-    "service-worker.js": "/http//aidanakad.github.io/resume/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/http//aidanakad.github.io/resume/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.868cc0d8.chunk.css.map": "/http//aidanakad.github.io/resume/static/css/main.868cc0d8.chunk.css.map",
-    "static/js/2.391de5e5.chunk.js.LICENSE.txt": "/http//aidanakad.github.io/resume/static/js/2.391de5e5.chunk.js.LICENSE.txt",
-    "static/media/about.module.css": "/http//aidanakad.github.io/resume/static/media/bg.0020c8ba.png",
-    "static/media/personal-img-min.JPG": "/http//aidanakad.github.io/resume/static/media/personal-img-min.68e0cc37.JPG",
-    "static/media/placeholder-portfolio.png": "/http//aidanakad.github.io/resume/static/media/placeholder-portfolio.0e65428a.png",
-    "static/media/todo.png": "/http//aidanakad.github.io/resume/static/media/todo.2a654408.png"
+    "main.css": "/resume/static/css/main.fedff74a.chunk.css",
+    "main.js": "/resume/static/js/main.842c6462.chunk.js",
+    "main.js.map": "/resume/static/js/main.842c6462.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.bbffb053.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.bbffb053.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/resume/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.391de5e5.chunk.js": "/resume/static/js/2.391de5e5.chunk.js",
+    "static/js/2.391de5e5.chunk.js.map": "/resume/static/js/2.391de5e5.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.8c736c8cff65a42eeb30f3a6a21f4080.js": "/resume/precache-manifest.8c736c8cff65a42eeb30f3a6a21f4080.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/resume/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fedff74a.chunk.css.map": "/resume/static/css/main.fedff74a.chunk.css.map",
+    "static/js/2.391de5e5.chunk.js.LICENSE.txt": "/resume/static/js/2.391de5e5.chunk.js.LICENSE.txt",
+    "static/media/about.module.css": "/resume/static/media/bg.0020c8ba.png",
+    "static/media/personal-img-min.JPG": "/resume/static/media/personal-img-min.68e0cc37.JPG",
+    "static/media/placeholder-portfolio.png": "/resume/static/media/placeholder-portfolio.0e65428a.png",
+    "static/media/todo.png": "/resume/static/media/todo.2a654408.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.db920b07.js",
+    "static/js/runtime-main.bbffb053.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.391de5e5.chunk.js",
-    "static/css/main.868cc0d8.chunk.css",
-    "static/js/main.00d6b77f.chunk.js"
+    "static/css/main.fedff74a.chunk.css",
+    "static/js/main.842c6462.chunk.js"
   ]
 }
