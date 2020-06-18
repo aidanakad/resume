@@ -104,6 +104,10 @@ a{
     width: 320px;
 }
 
+.duties li{
+    font-size: 15px;
+}
+
 .skill{
     display: flex;
     flex-direction: column;

@@ -17,11 +17,7 @@ export default function Experience() {
               <h6>Silk Road International School</h6>
               <p>Assistant teacher</p>
               <ul className={style.duties}>
-                  <li>Support a teacher on lessons;</li>
-                  <li>Conduct Ethics and PSHE lessons;</li>
-                  <li>Support students who needs help;</li>
-                  <li>Collaborate with Department to plan, develop and implement process;</li>
-                  <li>Organize event and extracurricular activities;</li>
+                <li>I support head teacher on lessons, also conduct Ethics and PSHE lesons. Colloborate with our Department to plan, develop and implement processe.</li>
               </ul>
             </div>
           </div>
@@ -38,11 +34,7 @@ export default function Experience() {
               <h6>Demir Kyrgyz International Bank</h6>
               <p>Training Specialist – HR Department </p>
               <ul className={style.duties}>
-                  <li>Organized internal and external trainings for bank staff;</li>
-                  <li>Conducted trainings for bank staff. Taught newcomers to the internal system and customer service;</li>
-                  <li>Organized corporate events. (actively participated in organization of summer corporate  at Issyk Kul for 420 bank employees);</li>
-                  <li>Collaborate with Department to plan, develop and implement process;</li>
-                  <li>Managed budget for trainings and events;</li>
+                <li>On this position I organized enternal and external trainings for the bank staff, also conducted trainings. My duties contained an organization corporate events. During the work I actively participated in organization of summer corporate  at Issyk Kul for 420 bank employees </li>
               </ul>
             </div>
           </div>
@@ -58,11 +50,7 @@ export default function Experience() {
               <h6>Demir Kyrgyz International Bank</h6>
               <p>Retail Marketing Specialist </p>
               <ul className={style.duties}>
-                  <li>Assisted clients in understanding their available options and helped them select the right service plans for their needs;</li>
-                  <li>Acknowledged customer issues and resolved their problems quickly and efficiently;</li>
-                  <li>Organized corporate events. (actively participated in organization of summer corporate  at Issyk Kul for 420 bank employees);</li>
-                  <li>Evaluated the customers’ needs and provided service options to meet their requirements;</li>
-                  <li>Provided sales of bank products, such as loans, time deposits and bank account;</li>
+                <li>Assisted clients in understanding their available options and helped them select the right service plans for their needs. I provided sales of bank products, such as loans, time deposits and bank account. And also Acknowledged customer issues and resolved their problems quickly and efficiently</li>
               </ul>
             </div>
           </div>
@@ -78,11 +66,7 @@ export default function Experience() {
               <h6>Aiesec Bursa, Turkey </h6>
               <p>Volunteer</p>
               <ul className={style.duties}>
-                  <li>Presented own culture and traditions;</li>
-                  <li>Organized events and trips to another cities;</li>
-                  <li>Developed English and Russian comunication skills of local students;</li>
-                  <li>Evaluated the customers’ needs and provided service options to meet their requirements;</li>
-                  <li>Conducted lessons, regarding global problems;</li>
+                <li>During my volunteer experience, I developed English and Russian comunication skills of local students, Conducted lessons, regarding global problems. And presented own culture and traditions</li>
               </ul>
             </div>
           </div>
