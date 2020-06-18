@@ -12,7 +12,7 @@ export default function About() {
           <Row>
             <Col xs='12' md='8' lg='6'>
               <div>
-                <h3 className={style.h3}>HELLO THERE!</h3>
+                <h3 className={style.h3}>HELLO WORLD!</h3>
                 <h1 className={style.title}>I AM FRONT-END DEVELOPER</h1>
                 <div className={style.txt}>
                   <p>My name is Aidana. I am a junior front-end developer, based in Bishkek, Kyrgyzstan. If I describe myself in one sentence, this will be that I have the optimism of will and pessimism of intelligence.</p>

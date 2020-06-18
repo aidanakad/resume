@@ -12,7 +12,7 @@ export default function HardSkils() {
                   <div className={style.percent}>90%</div>
               </div>
               <div className={style.wrapper} >
-                  <div className={style.percentage} style={{width:'90%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'90%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -22,7 +22,7 @@ export default function HardSkils() {
                   <div className={style.percent}>87%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'87%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'87%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -32,7 +32,7 @@ export default function HardSkils() {
                   <div className={style.percent}>65%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'65%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'65%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -42,7 +42,7 @@ export default function HardSkils() {
                   <div className={style.percent}>60%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'60%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'60%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -52,7 +52,7 @@ export default function HardSkils() {
                   <div className={style.percent}>40%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'40%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'40%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -62,7 +62,7 @@ export default function HardSkils() {
                   <div className={style.percent}>70%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'70%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'70%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -72,7 +72,7 @@ export default function HardSkils() {
                   <div className={style.percent}>60%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'60%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'60%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
 
@@ -82,7 +82,7 @@ export default function HardSkils() {
                   <div className={style.percent}>60%</div>
               </div>
               <div className={style.wrapper}>
-                  <div className={style.percentage} style={{width:'60%', height: '18px', borderRadius:'6px'}}></div>
+                  <div className={style.percentage} style={{width:'60%', height: '20px', borderRadius:'6px'}}></div>
               </div>
           </div>
       </div>
