@@ -11,7 +11,7 @@ export default function About() {
         <Container>
           <Row>
             <Col xs='12' md='8' lg='6'>
-              <div className={style.block}>
+              <div>
                 <h3 className={style.h3}>HELLO THERE!</h3>
                 <h1 className={style.title}>I AM FRONT-END DEVELOPER</h1>
                 <div className={style.txt}>
@@ -19,7 +19,7 @@ export default function About() {
                 </div>
               </div>
               <NavLink to="/experience">
-                <Button variant="outline-secondary">Learn more</Button>
+                <Button variant="outline-secondary">More about me</Button>
               </NavLink>
             </Col>
           </Row>
